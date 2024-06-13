@@ -1,4 +1,4 @@
-![Title](https://custom-title.png)
+![title](https://raw.githubusercontent.com/CheesecakeTM/EliCollection/main/custom-title.png)
 ---
 This modpack was made for me and some of my friends. Download the pack on its [Modrinth page](https://modrinth.com/modpack/eli-collection)
 <details>
