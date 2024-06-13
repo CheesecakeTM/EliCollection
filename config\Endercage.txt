@@ -1,0 +1,4 @@
+AllowCaptureOfHostile=false
+AmbientEntitySoundsFromNonSilentCages=true
+RedstoneFunctionality=true
+BannedFromCapturing=[minecraft:wither,minecraft:ender_dragon,minecraft:warden]
