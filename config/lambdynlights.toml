@@ -1,0 +1,184 @@
+# LambDynamicLights configuration.
+# The dynamic lights mode
+mode = "fancy"
+
+# Light sources settings.
+[light_sources]
+	# Enables water-sensitive light sources check. This means that water-sensitive items will not light up when submerged in water.
+	water_sensitive_check = true
+	# Enable block entities light source.
+	block_entities = true
+	# Enable entities light source.
+	entities = true
+	# Enable first-person player light source.
+	self = true
+	# TNT lighting mode. May be off, simple or fancy.
+	tnt = "off"
+	# Creeper lighting mode. May be off, simple or fancy.
+	creeper = "simple"
+
+	[light_sources.settings]
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				bee = true
+				axolotl = true
+				arrow = true
+				cow = true
+				pig = true
+				skeleton = true
+				bat = true
+				husk = true
+				frog = true
+				experience_bottle = true
+				rabbit = true
+				armor_stand = true
+				drowned = true
+				experience_orb = true
+				dolphin = true
+				item = true
+				salmon = true
+				wither_skeleton = true
+				item_frame = true
+				vindicator = true
+				horse = true
+				glow_squid = true
+				glow_item_frame = false
+				squid = true
+				creeper = true
+				lightning_bolt = true
+				enderman = true
+				chicken = true
+				fox = true
+				chest_minecart = true
+				tropical_fish = true
+				slime = true
+				pillager = true
+				iron_golem = true
+				area_effect_cloud = true
+				cat = true
+				zombie = true
+				sheep = true
+				player = true
+				pufferfish = true
+				potion = true
+				villager = true
+				wolf = true
+				zombie_villager = true
+				tnt_minecart = true
+				boat = true
+				polar_bear = true
+				painting = true
+				cave_spider = true
+				witch = true
+				cod = true
+				spider = true
+				stray = true
+				turtle = true
+				allay = true
+				skeleton_horse = true
+				donkey = true
+				firework_rocket = true
+				mooshroom = true
+				zombie_horse = true
+				illusioner = true
+				minecart = true
+				goat = true
+
+			[light_sources.settings.entities.naturalist]
+				deer = true
+				snail = true
+				firefly = true
+				hippo = true
+				bluejay = true
+				coral_snake = true
+				snake = true
+				cardinal = true
+				robin = true
+				boar = true
+				bass = true
+				tortoise = true
+				duck = true
+				butterfly = true
+				bear = true
+				sparrow = true
+				lizard = true
+				finch = true
+				canary = true
+				vulture = true
+				elephant = true
+				lion = true
+				rhino = true
+				alligator = true
+				catfish = true
+
+			[light_sources.settings.entities.graveyard]
+				revenant = true
+				corrupted_vindicator = true
+				skeleton_creeper = true
+				ghoul = true
+				nightmare = true
+				acolyte = true
+				corrupted_pillager = true
+				wraith = true
+
+			[light_sources.settings.entities.friendsandfoes]
+				glare = true
+				mauler = true
+				rascal = true
+				copper_golem = true
+				iceologer = true
+
+			[light_sources.settings.entities.wilderwild]
+				firefly = true
+				jellyfish = true
+				crab = true
+				tumbleweed = true
+				ostrich = true
+				scorched = true
+
+			[light_sources.settings.entities.artifacts]
+				mimic = true
+
+			[light_sources.settings.entities.creeperoverhaul]
+				cave_creeper = true
+				snowy_creeper = true
+				dripstone_creeper = true
+				ocean_creeper = true
+				bamboo_creeper = true
+				jungle_creeper = true
+				savannah_creeper = true
+				swamp_creeper = true
+				hills_creeper = true
+				spruce_creeper = true
+
+			[light_sources.settings.entities.lootr]
+				lootr_minecart = true
+
+			[light_sources.settings.entities.endermanoverhaul]
+				snowy_enderman = true
+				cave_enderman = true
+				savanna_enderman = true
+				flower_fields_enderman = true
+				dark_oak_enderman = true
+				swamp_enderman = true
+				windswept_hills_enderman = true
+
+			[light_sources.settings.entities.goblintraders]
+				goblin_trader = true
+
+			[light_sources.settings.entities.guardvillagers]
+				guard = true
+
+			[light_sources.settings.entities.bloomingnature]
+				wandering_gardener = true
+				boar = true
+				owl = true
+				deer = true
+				squirrel = true
+				raccoon = true
+
+			[light_sources.settings.entities.meadow]
+				water_buffalo = true
+
